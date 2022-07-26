@@ -1,0 +1,33 @@
+INFO:account created for: Saurav Kumar, New Email: Saurav.Kumar@cleareye.ai
+INFO:account created for: N. Soni, New Email: N..Soni@cleareye.ai
+INFO:account created for: Nivin Suresh, New Email: Nivin.Suresh@cleareye.ai
+INFO:account created for: Saurav Kumar, New Email: Saurav.Kumar@cleareye.ai
+INFO:None
+INFO:account created for: N. Soni, New Email: N..Soni@cleareye.ai
+INFO:None
+INFO:account created for: Nivin Suresh, New Email: Nivin.Suresh@cleareye.ai
+INFO:None
+INFO:account created for: Saurav Kumar, New Email: Saurav.Kumar@cleareye.ai
+INFO:None
+INFO:account created for: N. Soni, New Email: N..Soni@cleareye.ai
+INFO:None
+INFO:account created for: Nivin Suresh, New Email: Nivin.Suresh@cleareye.ai
+INFO:None
+INFO:account created for: Saurav Kumar, New Email: Saurav.Kumar@cleareye.ai
+INFO:Saurav Kumar Less
+INFO:account created for: N. Soni, New Email: N..Soni@cleareye.ai
+INFO:N. Soni Less
+INFO:account created for: Nivin Suresh, New Email: Nivin.Suresh@cleareye.ai
+INFO:Nivin Suresh More
+INFO:account created for: Saurav Kumar, New Email: Saurav.Kumar@cleareye.ai
+INFO:Saurav Kumar pay_grade: 1000
+INFO:account created for: N. Soni, New Email: N..Soni@cleareye.ai
+INFO:N. Soni pay_grade: 1000
+INFO:account created for: Nivin Suresh, New Email: Nivin.Suresh@cleareye.ai
+INFO:Nivin Suresh pay_grade: 2000
+INFO:account created for: Saurav Kumar, New Email: Saurav.Kumar@cleareye.ai
+INFO:Saurav Kumar pay_grade: 1000 after increment: 1200
+INFO:account created for: N. Soni, New Email: N..Soni@cleareye.ai
+INFO:N. Soni pay_grade: 1000 after increment: 1200
+INFO:account created for: Nivin Suresh, New Email: Nivin.Suresh@cleareye.ai
+INFO:Nivin Suresh pay_grade: 2000 after increment: 2200
